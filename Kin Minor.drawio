@@ -1,14 +1,9 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.1">
   <diagram id="oRHZXf_7kzQQBno32S_X" name="Page-1">
-    <mxGraphModel dx="898" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="792" dy="1141" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
-        <mxCell id="W3TFd2X2cm_PyBwLdbxR-7" value="Background" style="" parent="0" />
-        <object label="BPK 311" Code="311" Department="BPK" Units="3" Course="Applied Human Nutrition" id="XY8hQe_RvVQksCa53cMi-2">
-          <mxCell style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="W3TFd2X2cm_PyBwLdbxR-7">
-            <mxGeometry x="553" y="320" width="80" height="30" as="geometry" />
-          </mxCell>
-        </object>
+        <mxCell id="W3TFd2X2cm_PyBwLdbxR-7" value="Background" style="" parent="0" visible="0" />
         <mxCell id="4BHLoPZqxFKhShOrZBmn-14" value="Box Arrangement" parent="0" />
         <mxCell id="4BHLoPZqxFKhShOrZBmn-17" value="One of:" style="swimlane;whiteSpace=wrap;html=1;rounded=1;glass=0;swimlaneFillColor=default;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="4BHLoPZqxFKhShOrZBmn-14" vertex="1">
           <mxGeometry x="370" y="380" width="120" height="220" as="geometry">
@@ -197,7 +192,7 @@
         <mxCell id="3WOV2BCKVk76SARKrsxa-32" value="Kinesiology Minor Program" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="257.5" y="100" width="345" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3WOV2BCKVk76SARKrsxa-33" value="Updated Sep 15, 2024" style="text;strokeColor=none;fillColor=none;html=1;fontSize=18;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+        <mxCell id="3WOV2BCKVk76SARKrsxa-33" value="Updated Dec 4, 2024" style="text;strokeColor=none;fillColor=none;html=1;fontSize=18;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="323.5" y="140" width="195" height="40" as="geometry" />
         </mxCell>
         <object label="BPK 325" Code="325" Department="BPK" Units="3" Course="Basic Human Anatomy" id="cINZNil0Zcbs7LyowT9o-3">
@@ -390,7 +385,7 @@
             <mxGeometry x="390" y="560" width="80" height="30" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="4BHLoPZqxFKhShOrZBmn-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=75.605;exitDy=4.395000000000001;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF8000;" parent="1" source="3WOV2BCKVk76SARKrsxa-5" target="4BHLoPZqxFKhShOrZBmn-12" edge="1">
+        <mxCell id="4BHLoPZqxFKhShOrZBmn-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=75.605;exitDy=4.395000000000001;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#9673a6;fillColor=#e1d5e7;" parent="1" source="3WOV2BCKVk76SARKrsxa-5" target="4BHLoPZqxFKhShOrZBmn-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="310" y="654" />
@@ -400,6 +395,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <object label="BPK 311" Code="311" Department="BPK" Units="3" Course="Applied Human Nutrition" id="vxXemIkT0cI58F5_u51Y-1">
+          <mxCell style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+            <mxGeometry x="553" y="321" width="80" height="30" as="geometry" />
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
